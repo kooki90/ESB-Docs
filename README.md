@@ -1,5 +1,5 @@
 # ESB-Docs
-asyBiomeGenerator Plugin
+EasyBiomeGenerator Plugin
 
 **A Minecraft plugin that creates custom biome worlds and keeps them clean automatically!**
 
